@@ -10,11 +10,11 @@ Siempre estoy en busqueda de oportunidades para _aprender_ nuevas tecnologias y 
   1. Licenciatura en Gestion Tecnologica en [UNIVERSIDAD DE LA MATANZA](https://www.unlam.edu.ar/index.php?seccion=3&idArticulo=665)
   2. Tecnicatura superior en Analisis de Sistemas en IFTS N° 5
   ### Cursos
-  1. CS50 - Introduction to Computer Science [HARVARD UNIVERSITY](https://cs50.harvard.edu/college/2021/spring/) (Certificacion [>here<](https://certificates.cs50.io/79a31539-313e-4f15-a489-a1afbe847c1c.pdf?size=A4))
+  1. CS50 - Introduction to Computer Science [HARVARD UNIVERSITY](https://cs50.harvard.edu/college/2021/spring/) (Certificacion [>aca<](https://certificates.cs50.io/79a31539-313e-4f15-a489-a1afbe847c1c.pdf?size=A4))
   2. CS50W - Web Programming with Python and JavaScript [HARVARD UNIVERSITY](https://cs50.harvard.edu/web/2020/)
   3. CS139p - Developing Apps for iOS [STANFORD UNIVERSITY](https://cs193p.sites.stanford.edu/)
   4. SL275 - Java Programming Language [IT COLLEGE](https://www.itcollege.com.ar/)
-  5. Curso Introduccion a la ciberseguridad [CISCO NETWORKING ACADEMY](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) (Certificacion [>here<](https://www.credly.com/badges/59001b8f-5d64-4430-8f74-509b15092153?source=linked_in_profile))
+  5. Curso Introduccion a la ciberseguridad [CISCO NETWORKING ACADEMY](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) (Certificacion [>aca<](https://www.credly.com/badges/59001b8f-5d64-4430-8f74-509b15092153?source=linked_in_profile))
   ### Experiencia Laboral
   1. 2021 - Analista de soporte de Aplicaciones en [FK TECH](http://www.fktech.net/)
   2. 2015 - 2020 - Soporte IT Nivel 3 en [MACSTATION](http://www.macstation.com.ar/)
