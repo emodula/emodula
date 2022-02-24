@@ -16,7 +16,7 @@ Siempre estoy en busqueda de oportunidades para _aprender_ nuevas tecnologias y 
   4. SL275 - Java Programming Language [IT COLLEGE](https://www.itcollege.com.ar/)
   5. Curso Introduccion a la ciberseguridad [CISCO NETWORKING ACADEMY](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) (Certificacion [>aca<](https://www.credly.com/badges/59001b8f-5d64-4430-8f74-509b15092153?source=linked_in_profile))
   ### Experiencia Laboral
-  1. 2021 - Analista de soporte de Aplicaciones en [FK TECH](http://www.fktech.net/)
+  1. 2021 - Lider de equipo de Analistas para Soporte nivel 3 en [FK TECH](http://www.fktech.net/)
   2. 2015 - 2020 - Soporte IT Nivel 3 en [MACSTATION](http://www.macstation.com.ar/)
   3. 2012 - 2015 - Soporte IT Nivel 2 en [IPOINT](http://www.ipoint.com.ar/)
   4. 2007 - 2010 - Soporte IT Nivel 2 en [MACSTATION](http://www.macstation.com.ar/)
